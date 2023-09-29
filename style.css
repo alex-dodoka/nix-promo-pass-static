@@ -1,0 +1,19 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.icon {
+    display: block;
+    width: 260px;
+    height: 140px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+.fb {
+    background-image: url(./shared/Add-to-Apple-Wallet-Badge.svg);
+    
+  }
+
